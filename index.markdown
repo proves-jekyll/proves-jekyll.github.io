@@ -5,6 +5,6 @@
 layout: home
 title: Home
 ---
-# Benvinguts a la nostra web
+## Benvinguts a la nostra web
 
-## Markdown per a la creació de recursos
+### Markdown per a la creació de recursos
