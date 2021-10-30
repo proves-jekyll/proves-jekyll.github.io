@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Curs MArkdown - Jekyll
+title: Markdown per a la creació de recursos - Jekyll i Github
 email: ferrancunyat@ieseljust.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta és la web creada com a exemple al curs de Creació de recursos amb Markdown - CEFIRE València
