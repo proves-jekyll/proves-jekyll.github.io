@@ -7,4 +7,4 @@ categories: jekyll
 
 ## Descarrega d'arxius en Jekyll
 
-Fes clic [ací]({{ site.url }}/download/2021-10-28-benvingut-a-jekyll.pdf) per descarregar l'arxiu.
+Fes clic [ací]({{ site.url }}/download/2021-10-31-arxius-per-a-descarrega.pdf) per descarregar l'arxiu.
